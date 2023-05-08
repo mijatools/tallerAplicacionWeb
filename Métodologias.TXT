@@ -1,0 +1,45 @@
+Las metodologías tradicionales 
+
+de gestión de proyectos, también conocidas como metodologías "en cascada", 
+se centran en la planificación detallada y la ejecución secuencial de cada fase del proyecto. Estas metodologías
+ se basan en un enfoque de "arriba hacia abajo" en el que el plan del proyecto se define en detalle antes de que
+ comience la ejecución y se espera que se siga ese plan hasta la finalización del proyecto.
+
+En las metodologías tradicionales, la planificación se realiza en la etapa inicial del proyecto y se detallan
+ todas las actividades necesarias para cumplir con los objetivos del proyecto. Una vez que se define el plan,
+ se pasa a la etapa de ejecución, donde se llevan a cabo cada una de las actividades de forma secuencial y rigurosa. 
+Una vez que se completa una fase, se pasa a la siguiente y así sucesivamente hasta la finalización del proyecto.
+
+Las metodologías tradicionales se utilizan en una amplia gama de proyectos, desde la construcción de edificios y 
+la fabricación de productos hasta la gestión de proyectos de tecnología de la información y la implementación de 
+sistemas empresariales. Algunos ejemplos de metodologías tradicionales incluyen el Modelo de Cascada (Waterfall),
+ Modelo de V, y Modelo de Fases de Entrega (Método 4D).
+
+Aunque las metodologías tradicionales tienen la ventaja de ser estructuradas y predecibles, pueden ser rígidas
+ y no se adaptan fácilmente a los cambios. También pueden requerir mucho tiempo y esfuerzo para planificar y
+ ejecutar cada fase del proyecto, lo que puede llevar a un proceso de entrega lento y costoso.
+
+
+
+
+
+Las metodologías ágiles
+
+son un conjunto de enfoques y prácticas utilizados en la gestión de proyectos, especialmente
+ en el desarrollo de software, que se caracterizan por su flexibilidad y adaptabilidad al cambio. En lugar de seguir 
+un plan rígido y predefinido desde el principio, las metodologías ágiles se centran en la entrega continua de valor 
+al cliente, la colaboración y la retroalimentación constante entre los miembros del equipo y con el cliente.
+
+Las metodologías ágiles surgieron en respuesta a los métodos de gestión de proyectos tradicionales que se enfocaban
+ en la planificación y control riguroso, pero que a menudo no se adaptaban bien a los proyectos complejos y dinámicos.
+ Las metodologías ágiles, por otro lado, se centran en la flexibilidad, la adaptabilidad y la capacidad de respuesta
+ a los cambios, lo que puede llevar a una entrega más efectiva y satisfactoria del proyecto.
+
+Las metodologías ágiles se basan en una serie de principios y valores, como el valor del individuo y la colaboración
+ entre los miembros del equipo, la entrega continua de valor al cliente, la capacidad de respuesta al cambio y la mejora
+ continua. Algunas de las metodologías ágiles más populares incluyen Scrum, Kanban, Lean y Extreme Programming (XP).
+
+En Scrum, por ejemplo, se utilizan "sprints" (iteraciones cortas) para desarrollar funcionalidades en incrementos, mientras
+ que en Kanban se enfoca en la visualización del flujo de trabajo y la limitación de trabajo en progreso. Lean se enfoca en
+ la eliminación de desperdicios en el proceso de desarrollo, mientras que XP se enfoca en la calidad del código y 
+la retroalimentación constante.
